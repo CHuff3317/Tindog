@@ -1,2 +1,1 @@
-# Tindog
-Bootcamp html css javascript website
+TinDog Starting Files
